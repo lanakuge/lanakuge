@@ -6,10 +6,21 @@ Future Backend Engineer • College Student
 <br>
 Currently majoring in Computer Engineering Education, <b><a href="https://ft.unj.ac.id/ptik/">Jakarta State University</a></b>
 </samp></p>
+<p align="center"><b><samp>My Statistics</samp></b></p></b></b>
+    <div align="center">
+       <img src="https://github-readme-stats.vercel.app/api?username=lanakuge&show_icons=true&theme=algolia" alt="Gading Github Stats">
+     <br><br>
+     <details>
+       <summary>Details</summary>
+       <br>
+       <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanakuge&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
+       <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lanakuge&theme=algolia" alt="Stat Streak" /></p>
+       <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=lanakuge&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
+     </details>
+    </div>
 
    <p align="center">
      <p align="center"><b><samp>Language and Tools I Use</samp></b></p></b></b>
-<!--        <p><samp><sup>click the language to see my project</sup></samp></p> -->
      <p align="center">
      <a href="https://github.com/search?q=user%3Alanakuge+language%3AJavaScript+&type=repositories">
        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/></a>
