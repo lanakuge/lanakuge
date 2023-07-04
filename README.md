@@ -1,6 +1,6 @@
   <h4 align="center" id="begin">
     <samp
-      >• Hello my name <b><a>Nizhar Maulana</a> •</b></samp
+      >• Hello my name <b><a>Nizhar Maulana</b></a> •</samp
     >
   </h4>
   <!-- <h4 align="center" id="begin"><samp><b><a href="https://kaenova.my.id">kaenova.my.id</a></h4> -->
