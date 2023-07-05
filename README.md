@@ -19,7 +19,7 @@
   <div align="center">
     <img
       src="https://github-readme-stats.vercel.app/api?username=lanakuge&show_icons=true&theme=algolia"
-      alt="Gading Github Stats" />
+      alt="Github Stats" />
     <br /><br />
     <details>
       <summary>Details</summary>
