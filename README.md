@@ -9,7 +9,7 @@
     <samp>
       Future Backend Engineer • College Student
       <br />
-      Currently majoring in Computer Engineering Education,
+      Currently majoring in Informatics Engineering and Computer Education,
       <b><a href="https://ft.unj.ac.id/ptik/">Jakarta State University</a></b>
     </samp>
   </p>
