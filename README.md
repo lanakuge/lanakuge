@@ -9,7 +9,7 @@
     <samp>
       Future Backend Engineer • College Student
       <br />
-      Currently majoring in Informatics Engineering and Computer Education,
+      Currently majoring in Informatics and Computer Engineering Education,
       <b><a href="https://ft.unj.ac.id/ptik/">Jakarta State University</a></b>
     </samp>
   </p>
@@ -47,6 +47,12 @@
     <b><samp>Language and Tools I Use</samp></b>
   </p>
   <p align="center">
+    <a
+      href="https://github.com/search?q=user%3Alanakuge+language%3ATypeScript+&type=repositories">
+      <img
+        alt="TypeScript"
+        src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"
+    /></a>
     <a
       href="https://github.com/search?q=user%3Alanakuge+language%3AJavaScript+&type=repositories">
       <img
