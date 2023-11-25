@@ -18,7 +18,7 @@
   </p>
   <div align="center">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=lanakuge&show_icons=true&theme=algolia"
+      src="https://github-readme-stats.vercel.app/api?username=maulananizhar&show_icons=true&theme=algolia"
       alt="Github Stats" />
     <br /><br />
     <details>
@@ -26,17 +26,17 @@
       <br />
       <p>
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanakuge&theme=algolia&hide_border=true&langs_count=5"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulananizhar&theme=algolia&hide_border=true&langs_count=5"
           alt="Most used languages" />
       </p>
       <p>
         <img
-          src="https://github-readme-streak-stats.herokuapp.com/?user=lanakuge&theme=algolia"
+          src="https://github-readme-streak-stats.herokuapp.com/?user=maulananizhar&theme=algolia"
           alt="Stat Streak" />
       </p>
       <p align="center">
         <img
-          src="https://github-profile-trophy.vercel.app/?username=lanakuge&theme=algolia&margin-w=5&margin-h=5"
+          src="https://github-profile-trophy.vercel.app/?username=maulananizhar&theme=algolia&margin-w=5&margin-h=5"
           alt="Github Trophy" />
       </p>
     </details>
@@ -48,13 +48,13 @@
   </p>
   <p align="center">
     <a
-      href="https://github.com/search?q=user%3Alanakuge+language%3ATypeScript+&type=repositories">
+      href="https://github.com/search?q=user%3Amaulananizhar+language%3ATypeScript+&type=repositories">
       <img
         alt="TypeScript"
         src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"
     /></a>
     <a
-      href="https://github.com/search?q=user%3Alanakuge+language%3AJavaScript+&type=repositories">
+      href="https://github.com/search?q=user%3Amaulananizhar+language%3AJavaScript+&type=repositories">
       <img
         alt="JavaScript"
         src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"
@@ -94,6 +94,6 @@
   </p>
   <p align="center">
     <img
-      src="https://api.visitorbadge.io/api/VisitorHit?user=lanakuge&repo=github-visitors-badge&labelColor=%23555&countColor=%23000"
+      src="https://api.visitorbadge.io/api/VisitorHit?user=maulananizhar&repo=github-visitors-badge&labelColor=%23555&countColor=%23000"
       width="105px" />
   </p>
